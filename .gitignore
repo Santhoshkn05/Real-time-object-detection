@@ -1,0 +1,7 @@
+# Model files and directories
+models/
+*.weights
+*.pb
+*.caffemodel
+saved_model/
+checkpoint/
